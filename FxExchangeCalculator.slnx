@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FxExchangeCalculator.Test/FxExchangeCalculator.Test.csproj" />
+  <Project Path="FxExchangeCalculator/FxExchangeCalculator.csproj" />
+</Solution>
